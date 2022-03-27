@@ -15,9 +15,9 @@ c = str;
 
 for (m = 0; c[m] ; m++)
 {
-_putchar (c[m] ) ;
+_putchar (c[m]); 
 }
-_putchar( '\n' ) ;
+_putchar('\n');
 }
 git add .
 git commit -m "neem"
